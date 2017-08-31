@@ -1,0 +1,6 @@
+D:\sivenyu\MyConsole\TestAttribute\bin\Debug\TestAttribute.exe.config
+D:\sivenyu\MyConsole\TestAttribute\bin\Debug\TestAttribute.exe
+D:\sivenyu\MyConsole\TestAttribute\bin\Debug\TestAttribute.pdb
+D:\sivenyu\MyConsole\TestAttribute\obj\Debug\TestAttribute.csprojResolveAssemblyReference.cache
+D:\sivenyu\MyConsole\TestAttribute\obj\Debug\TestAttribute.exe
+D:\sivenyu\MyConsole\TestAttribute\obj\Debug\TestAttribute.pdb

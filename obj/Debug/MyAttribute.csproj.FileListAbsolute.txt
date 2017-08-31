@@ -1,0 +1,19 @@
+F:\MyCode\MyConsole\NET特性\MyAttribute\bin\Debug\TestAttribute.exe.config
+F:\MyCode\MyConsole\NET特性\MyAttribute\bin\Debug\TestAttribute.exe
+F:\MyCode\MyConsole\NET特性\MyAttribute\bin\Debug\TestAttribute.pdb
+F:\MyCode\MyConsole\NET特性\MyAttribute\obj\Debug\MyAttribute.csprojResolveAssemblyReference.cache
+F:\MyCode\MyConsole\NET特性\MyAttribute\obj\Debug\TestAttribute.exe
+F:\MyCode\MyConsole\NET特性\MyAttribute\obj\Debug\TestAttribute.pdb
+F:\MyCode\MyCSharp\NET特性\MyAttribute\bin\Debug\TestAttribute.exe.config
+F:\MyCode\MyCSharp\NET特性\MyAttribute\bin\Debug\TestAttribute.exe
+F:\MyCode\MyCSharp\NET特性\MyAttribute\bin\Debug\TestAttribute.pdb
+F:\MyCode\MyCSharp\NET特性\MyAttribute\obj\Debug\MyAttribute.csprojResolveAssemblyReference.cache
+F:\MyCode\MyCSharp\NET特性\MyAttribute\obj\Debug\TestAttribute.exe
+F:\MyCode\MyCSharp\NET特性\MyAttribute\obj\Debug\TestAttribute.pdb
+C:\Users\xuliang\AppData\Roaming\feiq\Recv Files\MyAttribute\bin\Debug\TestAttribute.exe.config
+C:\Users\xuliang\AppData\Roaming\feiq\Recv Files\MyAttribute\bin\Debug\TestAttribute.exe
+C:\Users\xuliang\AppData\Roaming\feiq\Recv Files\MyAttribute\bin\Debug\TestAttribute.pdb
+C:\Users\xuliang\AppData\Roaming\feiq\Recv Files\MyAttribute\obj\Debug\MyAttribute.csprojResolveAssemblyReference.cache
+C:\Users\xuliang\AppData\Roaming\feiq\Recv Files\MyAttribute\obj\Debug\MyAttribute.csproj.CoreCompileInputs.cache
+C:\Users\xuliang\AppData\Roaming\feiq\Recv Files\MyAttribute\obj\Debug\TestAttribute.exe
+C:\Users\xuliang\AppData\Roaming\feiq\Recv Files\MyAttribute\obj\Debug\TestAttribute.pdb
