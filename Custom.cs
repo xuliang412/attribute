@@ -14,6 +14,7 @@ namespace TestAttribute
     {
         public Custom()
         {
+            //这是一个反射
             var syncAttribute = Attribute.GetCustomAttribute(this.GetType().GetMethod(nameof(Working), BindingFlags.NonPublic | BindingFlags.Instance), typeof(SyncWorkAttribute)) as SyncWorkAttribute;
             if (syncAttribute != null)
             {
